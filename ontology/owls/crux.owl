@@ -1,0 +1,3929 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="urn:webprotege:ontology:231c27dc-f436-453c-bf48-b3cb7282aa15"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="urn:webprotege:ontology:231c27dc-f436-453c-bf48-b3cb7282aa15">
+    <Prefix name="" IRI="urn:webprotege:ontology:231c27dc-f436-453c-bf48-b3cb7282aa15"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R0a6a5mGm1vCsrssjbxOHS"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R3rv7aiytv4kHX93l7VdCE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R6fvijkD6IK01xRmOuFfQ5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R78LmQvIDpMmJnyGua2uWD9"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7SZ5yu9XOQVQUNBNdDYXNj"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7hJzSwEwLmvdYZwrQDPYO7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7iohKqPlD6P6U9JLqBhA7F"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7jgrMwoolljhXoHDFZ69IJ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7lN4Uakp8Y6PY5rSGrhxC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7ntVCyMHaFE5mYpDFNCcBe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7qL9zln3Kzq999eoxaQHP4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7qZinT9z1YFJJkqhCjgAap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7qxjcJyVhiZiiCKChI9sG4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7rCTnfeSBPs47Z5IGKqIDk"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7roAdZcfPvQ7x9dzO5bmWm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7uyAnKhOfkyz0taVcLEDnc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R7zXnRbrfN5NOUHlU90avuz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R81Y5pjGml44ihdWpEor98"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R83CMvvv7rIYi4w0sAz4WS6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R85cLOtiY56Zkt9J3BRDtKd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R88ulVRKqnTkJ2zjMqMqGNt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8KRQcIxCXpGAX7fTYxjPrv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8L98UCf1qtE9ZmHqsm91Fn"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8PoFBM8YNfVxvFfOw72Wge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8R7iF2p7tuEvmatmElBkpc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8Ta6HSmwXLcagP7xd4SBUe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8WUXVwHe6evYtYeMoOsVlB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8X5qeQRmJldI3h6kS3Q6tC"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8eCYk1FI1gY0sNviqgDMUV"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8ejAAt9ooRAWE2Fnb3QZ2V"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8iRdlAaS376ka2DOZiv1vE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8p7fxA4Mlm0GlSVjcsJcPm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8qzkJYVG7ABR2JffIeeBEl"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8wCxxuCaAW7LIyk9FxTbJv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8z2YIkOy6uRVMD8qyCkqci"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R8zlppxeAd7gPxCvp3lmqCx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R98zVOFbRriDsSVo89YjgFz"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9VivapbgLVQ5HZ4VogDmI4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9kxc2UV7a5mWGnaKFOso7H"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9pCRCD31UECafADiXu2A53"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/R9z2yS1T7I5xjmM7mNk4OKx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB4kHjK4fGl8CgNLOVPrbjh"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RB5dP7iJNJJa9JRdojAWDqo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBDrCX3xuzJrBBpObGTFjvA"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBIDDRDft0hLPHW9Jsxq8O7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBJP105tkbuX1XsnH2ZIw9q"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBS1BumFG9BM1y7Qh4PvWtB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBVsMYCgBrC6Uzg1JZX1ltZ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBX81jCHHsrRPihGvpuHv61"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBYpO8QL65hgmu0OY3UIS4h"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBaugl4kiswiZ7ZrjMKtZB1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBdKhQqHXHXJ5anqknFFT3B"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBshr8uxpbzwE96xIPgjgd5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RBzsVOAeASkYgslvGnEnJuL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RC4EM3bS7KPdAfMzdn9PL7Y"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCF6lyWy5ChQXQovKdeMXCd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCT5AEAKpxb0XmvZJtA43cY"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCYX8E1lnUpgG7dTqKjAOsi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCczDiwp1eqbGxMRhBloea"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCd8tmm2TcyTnDrMmQRWxce"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCd9OB1yDjMHF8RlIsFuUrG"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCgNxeBytCS1IvQ8O7EykZq"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCglJfpwsdo0n7wuovGkw03"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCr0dlLWJ8wKJ9QJU79cKnx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCvCRfKyM249NynPfPAEVkx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCx1HWmm2dnUZfyUB2W6r7W"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RD19khb1XQXnrVukPrZ1n16"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDDMGuDs3QzH5okvmNG7TkL"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDEGswixi19PDozhyzkvJg7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDK48h9FhrwJZmFtdUS9IMv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDKKqbg1V1FzwPpKTvq8quq"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDc6fCx9B4Z9jRPAjffHibt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDgFFYvGyxlBkfJJDCuPqw3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDm70zaajOGiwhASgrKlYnQ"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDvAZtceb2sUSCcFCJrHo8m"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDw4AFGiafU0x2dVqRjHCDr"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RDwQxpyAj6nprMHlKcmN45M"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RPw8zIsOrhKSxuppPwfqOp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RR1AApzbpXt3CUxlcd04L0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RZE6oeuFD6IRqbF6ZmYTEE"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RasHxGSTCNrL5HP1IcuMuN"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RcmdlOuFlr2VtKIpaEHoa5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RctZZJyJoHYNYNzGLqg7ar"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Re1RP36eGXNhyA6jgm66mR"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RfZ2GTcuWSVW0GggAXvm0U"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Ri3qBOVFly160tG3Gor39M"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RkJOYyT9sQDAKyaMoXkSuv"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RroXwH0zO986a1e7pdpC4A"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rsf6zcKog1BK0UQtibWMJG"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rt521dhV1o7rFuFgcn7Xff"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RtkJhrpwJ06UKx6KRp3jjr"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RvsNh2o9AJ00EduqoKo1Hx"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/Rw8YTmzkFKWHCI4x4uClwB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://webprotege.stanford.edu/RxKsY4CMnJe22oUDOkHgiB"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Accelerating_Voltage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Acceleration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ActualKnowledge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Annealing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Anodizing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Arc"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Arc_Melting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ball_Material"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ball_Milling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ball_Size"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Beam_Current"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Building_Direction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Carrier_Gas"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Casting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Center"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Composition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cooling_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Current"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Current_Density"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Czochralski_Method"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Datacard"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Direct_Metal_Deposition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Direct_Metal_Laser_Sintering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Duration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dwell_Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Electron_Beam_Melting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Etching"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#F1_score"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Feed_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flame_Fusion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flow_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fluence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Foil"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Forging"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Frequency"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Friction_Stir_Welding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fused_Deposition_Modelling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gas_Atomization"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gas_Flow_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Growth_Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hatch_spacing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Head_Temperature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Heat_Input"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hot_Isostatic_Pressing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hot_Wire_Power"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Induction_Melting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Infill"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Instrument"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laser_Engineered_Net_Shaping"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laser_Fluence"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laser_Frequency"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laser_Hot_Wire"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laser_Metal_Deposition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laser_Powder_Bed_Fusion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Laser_Power"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Layer_Thickness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Magnetron_Sputtering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ModelCard"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Overlap"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Particle_Size"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Peaklist"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Powder_Diameter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Powder_Feed_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Power"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Power_Density"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Precipitation_Hardening"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Precursors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Preheat_Temperature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pressure"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pull_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pulse_Frequency"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pulsed_Laser_Deposition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quench"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quench_Media"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Quenching"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Ramp_Rates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Reduction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rotation_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rotation_Rates"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rotation_Speed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sample"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Scan_Speed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sciaky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Selective_Laser_Melting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shielding_Gas"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solution"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solvent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solvent_Flux"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solvothermal_Processing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spark_PLasma_Sintering"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spin_Casting"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spin_Coating"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tape_Transfer_Exfoliation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tape_Type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TaskCard"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tension"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#TestCard"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thermal_Atomic_Layer_Deposition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thermal_Curing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thickness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Travel_Speed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Traverse_Rate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UV_Curing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UploadTime"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#User"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vaccum_Level"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Velocity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Voltage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wattage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wavelength"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Welding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wire_Arc_Additive_Manufacturing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wire_Drawing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wire_Feed_Speed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#X-raySource"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#address"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#affiliation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#allowedError"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#analysis"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#applicationSoftware"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#atmosphere"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#author"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#caveatsAndRecommendations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#center"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#centerID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#centerName"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#chemicalElements"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#citationDetails"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#contact"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#contributor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#cosineSimilarity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dataContent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dataContext"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dataID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dataLocation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dependencies"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#electricField"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#email"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#endTimeStamp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ethicalConsiderations"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fairnessConstraints"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#groundtruth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#header"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hyperParameters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#inputFormat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#inputParameters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#instrumentControlSoftware"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#instrumentID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#intendedTasks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#intendedUse"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#intendedUsers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#jaccardSimilarity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#license"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#measurementCondition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelArchitecture"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelContext"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelDate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelDay"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelDescription"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelLocation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelMonth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelName"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelVersion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#modelYear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#name"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#office"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#others"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#outOfScopeUses"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#outTasks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#outUsers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#output"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#outputFormat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#outputParameters"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#paperOrResource"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#password"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#peaklistID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#performance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#phone"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#positions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#precision"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#prefix"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#processingParameter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#processingTechnique"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#recall"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#role"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sampleID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sampleMode"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sampleName"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sampleOffset"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sampleType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#source"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#startTimeStamp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#status"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#taskID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#taskName"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#temperature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#testID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#trainingData"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#units"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#uploadDate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#uploadDay"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#uploadMonth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#uploadYear"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#usedWavelength"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#userID"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#username"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#value"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#version"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#website"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#x"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#y"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gas/Metal_Ratio"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#runningTime(s)"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasParameter"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R0a6a5mGm1vCsrssjbxOHS"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R3rv7aiytv4kHX93l7VdCE"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R6fvijkD6IK01xRmOuFfQ5"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R78LmQvIDpMmJnyGua2uWD9"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7SZ5yu9XOQVQUNBNdDYXNj"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7hJzSwEwLmvdYZwrQDPYO7"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7iohKqPlD6P6U9JLqBhA7F"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7jgrMwoolljhXoHDFZ69IJ"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7lN4Uakp8Y6PY5rSGrhxC"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7ntVCyMHaFE5mYpDFNCcBe"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7qL9zln3Kzq999eoxaQHP4"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7qZinT9z1YFJJkqhCjgAap"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7qxjcJyVhiZiiCKChI9sG4"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7qxjcJyVhiZiiCKChI9sG4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7qxjcJyVhiZiiCKChI9sG4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/Ri3qBOVFly160tG3Gor39M"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7qxjcJyVhiZiiCKChI9sG4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Time"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7rCTnfeSBPs47Z5IGKqIDk"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7roAdZcfPvQ7x9dzO5bmWm"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7uyAnKhOfkyz0taVcLEDnc"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R7zXnRbrfN5NOUHlU90avuz"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R81Y5pjGml44ihdWpEor98"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R83CMvvv7rIYi4w0sAz4WS6"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R85cLOtiY56Zkt9J3BRDtKd"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R88ulVRKqnTkJ2zjMqMqGNt"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8KRQcIxCXpGAX7fTYxjPrv"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8L98UCf1qtE9ZmHqsm91Fn"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8PoFBM8YNfVxvFfOw72Wge"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8R7iF2p7tuEvmatmElBkpc"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8Ta6HSmwXLcagP7xd4SBUe"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8WUXVwHe6evYtYeMoOsVlB"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8X5qeQRmJldI3h6kS3Q6tC"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8eCYk1FI1gY0sNviqgDMUV"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8ejAAt9ooRAWE2Fnb3QZ2V"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8iRdlAaS376ka2DOZiv1vE"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8p7fxA4Mlm0GlSVjcsJcPm"/>
+        <Class IRI="http://webprotege.stanford.edu/RBYpO8QL65hgmu0OY3UIS4h"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8qzkJYVG7ABR2JffIeeBEl"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8wCxxuCaAW7LIyk9FxTbJv"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8z2YIkOy6uRVMD8qyCkqci"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R8zlppxeAd7gPxCvp3lmqCx"/>
+        <Class IRI="#ActualKnowledge"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R98zVOFbRriDsSVo89YjgFz"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9VivapbgLVQ5HZ4VogDmI4"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9kxc2UV7a5mWGnaKFOso7H"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9pCRCD31UECafADiXu2A53"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/R9z2yS1T7I5xjmM7mNk4OKx"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB4kHjK4fGl8CgNLOVPrbjh"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RB5dP7iJNJJa9JRdojAWDqo"/>
+        <Class IRI="http://webprotege.stanford.edu/RBYpO8QL65hgmu0OY3UIS4h"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBDrCX3xuzJrBBpObGTFjvA"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBIDDRDft0hLPHW9Jsxq8O7"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBJP105tkbuX1XsnH2ZIw9q"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBS1BumFG9BM1y7Qh4PvWtB"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBVsMYCgBrC6Uzg1JZX1ltZ"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBX81jCHHsrRPihGvpuHv61"/>
+        <Class IRI="http://webprotege.stanford.edu/RBYpO8QL65hgmu0OY3UIS4h"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBYpO8QL65hgmu0OY3UIS4h"/>
+        <Class IRI="#ActualKnowledge"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBaugl4kiswiZ7ZrjMKtZB1"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBdKhQqHXHXJ5anqknFFT3B"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBshr8uxpbzwE96xIPgjgd5"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RBzsVOAeASkYgslvGnEnJuL"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RC4EM3bS7KPdAfMzdn9PL7Y"/>
+        <Class IRI="http://webprotege.stanford.edu/RDEGswixi19PDozhyzkvJg7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCF6lyWy5ChQXQovKdeMXCd"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCT5AEAKpxb0XmvZJtA43cY"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCYX8E1lnUpgG7dTqKjAOsi"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCczDiwp1eqbGxMRhBloea"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCd8tmm2TcyTnDrMmQRWxce"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCd9OB1yDjMHF8RlIsFuUrG"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCgNxeBytCS1IvQ8O7EykZq"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCglJfpwsdo0n7wuovGkw03"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCr0dlLWJ8wKJ9QJU79cKnx"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCvCRfKyM249NynPfPAEVkx"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCx1HWmm2dnUZfyUB2W6r7W"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+        <Class IRI="#ActualKnowledge"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RD19khb1XQXnrVukPrZ1n16"/>
+        <Class IRI="http://webprotege.stanford.edu/RDEGswixi19PDozhyzkvJg7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDDMGuDs3QzH5okvmNG7TkL"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDEGswixi19PDozhyzkvJg7"/>
+        <Class IRI="#ActualKnowledge"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDK48h9FhrwJZmFtdUS9IMv"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDKKqbg1V1FzwPpKTvq8quq"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+        <Class IRI="#ActualKnowledge"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDc6fCx9B4Z9jRPAjffHibt"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDgFFYvGyxlBkfJJDCuPqw3"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDm70zaajOGiwhASgrKlYnQ"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+        <Class IRI="#ActualKnowledge"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDvAZtceb2sUSCcFCJrHo8m"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDw4AFGiafU0x2dVqRjHCDr"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RDwQxpyAj6nprMHlKcmN45M"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+        <Class IRI="#ActualKnowledge"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RPw8zIsOrhKSxuppPwfqOp"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RR1AApzbpXt3CUxlcd04L0"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RZE6oeuFD6IRqbF6ZmYTEE"/>
+        <Class IRI="http://webprotege.stanford.edu/RDEGswixi19PDozhyzkvJg7"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RasHxGSTCNrL5HP1IcuMuN"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RcmdlOuFlr2VtKIpaEHoa5"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RctZZJyJoHYNYNzGLqg7ar"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Re1RP36eGXNhyA6jgm66mR"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RfZ2GTcuWSVW0GggAXvm0U"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Ri3qBOVFly160tG3Gor39M"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RkJOYyT9sQDAKyaMoXkSuv"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RroXwH0zO986a1e7pdpC4A"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rsf6zcKog1BK0UQtibWMJG"/>
+        <Class IRI="http://webprotege.stanford.edu/RBYpO8QL65hgmu0OY3UIS4h"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rt521dhV1o7rFuFgcn7Xff"/>
+        <Class IRI="http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RtkJhrpwJ06UKx6KRp3jjr"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RvsNh2o9AJ00EduqoKo1Hx"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/Rw8YTmzkFKWHCI4x4uClwB"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://webprotege.stanford.edu/RxKsY4CMnJe22oUDOkHgiB"/>
+        <Class IRI="http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Accelerating_Voltage"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Acceleration"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annealing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annealing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annealing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/Ri3qBOVFly160tG3Gor39M"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Annealing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Time"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anodizing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anodizing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anodizing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Current_Density"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Anodizing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Solution"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Arc"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Arc_Melting"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Arc_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/Ri3qBOVFly160tG3Gor39M"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Arc_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Current"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Arc_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ball_Material"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ball_Milling"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ball_Milling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Ball_Material"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ball_Milling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Ball_Size"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ball_Milling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Powder_Diameter"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ball_Milling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Rotation_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ball_Size"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Beam_Current"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Building_Direction"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Carrier_Gas"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Casting"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Casting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Casting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Duration"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Casting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Solvent"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Composition"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cooling_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Current"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Current_Density"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Czochralski_Method"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Czochralski_Method"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Czochralski_Method"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Composition"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Czochralski_Method"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pull_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Czochralski_Method"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Rotation_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Deposition"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Gas_Flow_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Traverse_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Laser_Sintering"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Laser_Sintering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Hatch_spacing"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Laser_Sintering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direct_Metal_Laser_Sintering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Scan_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Duration"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dwell_Time"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electron_Beam_Melting"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electron_Beam_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Layer_Thickness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electron_Beam_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electron_Beam_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Preheat_Temperature"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Electron_Beam_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Scan_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Etching"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Etching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RCvCRfKyM249NynPfPAEVkx"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Etching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Etching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Dwell_Time"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Etching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Ramp_Rates"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#F1_score"/>
+        <Class IRI="#performance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Feed_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flame_Fusion"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flame_Fusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flame_Fusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Feed_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flame_Fusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Particle_Size"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flow_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fluence"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Foil"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Forging"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Forging"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Forging"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Frequency"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Friction_Stir_Welding"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Friction_Stir_Welding"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Heat_Input"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Friction_Stir_Welding"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Rotation_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Friction_Stir_Welding"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Travel_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fused_Deposition_Modelling"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fused_Deposition_Modelling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Feed_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fused_Deposition_Modelling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Head_Temperature"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fused_Deposition_Modelling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Infill"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fused_Deposition_Modelling"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Thickness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gas_Atomization"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gas_Atomization"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gas_Atomization"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gas_Atomization"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Gas/Metal_Ratio"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gas_Flow_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Growth_Time"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hatch_spacing"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Head_Temperature"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Heat_Input"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hot_Isostatic_Pressing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hot_Isostatic_Pressing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hot_Isostatic_Pressing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hot_Isostatic_Pressing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Time"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hot_Wire_Power"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Induction_Melting"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Induction_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Frequency"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Induction_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Wattage"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Infill"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Engineered_Net_Shaping"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Engineered_Net_Shaping"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Feed_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Engineered_Net_Shaping"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Hatch_spacing"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Engineered_Net_Shaping"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Engineered_Net_Shaping"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Scan_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Fluence"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Frequency"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Hot_Wire"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Hot_Wire"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Hot_Wire_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Hot_Wire"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Hot_Wire"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Travel_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Hot_Wire"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Wire_Feed_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Metal_Deposition"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Metal_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Metal_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Powder_Feed_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Metal_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Travel_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Powder_Bed_Fusion"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Powder_Bed_Fusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Hatch_spacing"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Powder_Bed_Fusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Powder_Bed_Fusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Layer_Thickness"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Powder_Bed_Fusion"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Scan_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Laser_Power"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Layer_Thickness"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Magnetron_Sputtering"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Magnetron_Sputtering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Magnetron_Sputtering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Growth_Time"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Magnetron_Sputtering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Magnetron_Sputtering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pulse_Frequency"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Overlap"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Particle_Size"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Powder_Diameter"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Powder_Feed_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Power"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Power_Density"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Precipitation_Hardening"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Precipitation_Hardening"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Precipitation_Hardening"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Quench"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Precipitation_Hardening"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Time"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Precursors"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Preheat_Temperature"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pressure"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pull_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pulse_Frequency"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pulsed_Laser_Deposition"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pulsed_Laser_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pulsed_Laser_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Fluence"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pulsed_Laser_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Frequency"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pulsed_Laser_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quench"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quench_Media"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quenching"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quenching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quenching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Cooling_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quenching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Quench_Media"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Quenching"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Time"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Ramp_Rates"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Reduction"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rotation_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rotation_Rates"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rotation_Speed"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Scan_Speed"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sciaky"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sciaky"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sciaky"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Travel_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sciaky"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Vaccum_Level"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Selective_Laser_Melting"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Selective_Laser_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Building_Direction"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Selective_Laser_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Hatch_spacing"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Selective_Laser_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Laser_Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Selective_Laser_Melting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Scan_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shielding_Gas"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solution"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solvent"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solvent_Flux"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solvothermal_Processing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solvothermal_Processing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solvothermal_Processing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solvothermal_Processing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Solvent_Flux"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spark_PLasma_Sintering"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spark_PLasma_Sintering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Foil"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spark_PLasma_Sintering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spark_PLasma_Sintering"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Voltage"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spin_Casting"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spin_Casting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spin_Casting"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Acceleration"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spin_Coating"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spin_Coating"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spin_Coating"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Duration"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spin_Coating"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Rotation_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tape_Transfer_Exfoliation"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tape_Transfer_Exfoliation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tape_Transfer_Exfoliation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Duration"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tape_Transfer_Exfoliation"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Tape_Type"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tape_Type"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tension"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Atomic_Layer_Deposition"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Atomic_Layer_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Atomic_Layer_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Carrier_Gas"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Atomic_Layer_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Flow_Rate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Atomic_Layer_Deposition"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Precursors"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Curing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Duration"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Pressure"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thermal_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Ramp_Rates"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thickness"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Time"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Travel_Speed"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Traverse_Rate"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UV_Curing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UV_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UV_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Duration"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UV_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Fluence"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UV_Curing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Wavelength"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UploadTime"/>
+        <Class IRI="#uploadDate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vaccum_Level"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Velocity"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Voltage"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wattage"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wavelength"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Welding"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Welding"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Arc"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Welding"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Current"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Welding"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Shielding_Gas"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Welding"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Travel_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Arc_Additive_Manufacturing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Arc_Additive_Manufacturing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Overlap"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Arc_Additive_Manufacturing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Power"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Arc_Additive_Manufacturing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Travel_Speed"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Arc_Additive_Manufacturing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Velocity"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Drawing"/>
+        <Class IRI="http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Drawing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Reduction"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Drawing"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasParameter"/>
+            <Class IRI="#Tension"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wire_Feed_Speed"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#X-raySource"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#address"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#affiliation"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#allowedError"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#analysis"/>
+        <Class IRI="#Datacard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#applicationSoftware"/>
+        <Class IRI="#source"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#atmosphere"/>
+        <Class IRI="#measurementCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#author"/>
+        <Class IRI="#header"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#caveatsAndRecommendations"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#center"/>
+        <Class IRI="#dataContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#centerID"/>
+        <Class IRI="#Center"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#centerID"/>
+        <Class IRI="#Sample"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#centerID"/>
+        <Class IRI="#affiliation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#centerID"/>
+        <Class IRI="#center"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#centerName"/>
+        <Class IRI="#Center"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#centerName"/>
+        <Class IRI="#center"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#chemicalElements"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#citationDetails"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#contact"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#contributor"/>
+        <Class IRI="#dataContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#contributor"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#cosineSimilarity"/>
+        <Class IRI="#performance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dataContent"/>
+        <Class IRI="#Datacard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dataContext"/>
+        <Class IRI="#Datacard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dataID"/>
+        <Class IRI="#Datacard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dataID"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dataID"/>
+        <Class IRI="#trainingData"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dataLocation"/>
+        <Class IRI="#dataContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dependencies"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#electricField"/>
+        <Class IRI="#measurementCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#email"/>
+        <Class IRI="#contact"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#endTimeStamp"/>
+        <Class IRI="#header"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ethicalConsiderations"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fairnessConstraints"/>
+        <Class IRI="#modelDescription"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#groundtruth"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#header"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hyperParameters"/>
+        <Class IRI="#modelDescription"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#inputFormat"/>
+        <Class IRI="#TaskCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#inputFormat"/>
+        <Class IRI="#modelDescription"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#inputParameters"/>
+        <Class IRI="#TaskCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#inputParameters"/>
+        <Class IRI="#modelDescription"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#instrumentControlSoftware"/>
+        <Class IRI="#source"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#instrumentID"/>
+        <Class IRI="#Center"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#instrumentID"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#instrumentID"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#instrumentID"/>
+        <Class IRI="#dataContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#intendedTasks"/>
+        <Class IRI="#intendedUse"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#intendedUse"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#intendedUsers"/>
+        <Class IRI="#intendedUse"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#jaccardSimilarity"/>
+        <Class IRI="#performance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#license"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#measurementCondition"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelArchitecture"/>
+        <Class IRI="#modelDescription"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelContext"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelDate"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelDay"/>
+        <Class IRI="#modelDate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelDescription"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelID"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelID"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelID"/>
+        <Class IRI="#dependencies"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelLocation"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelMonth"/>
+        <Class IRI="#modelDate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelName"/>
+        <Class IRI="#dependencies"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelName"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelType"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelVersion"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#modelYear"/>
+        <Class IRI="#modelDate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#name"/>
+        <Class IRI="#applicationSoftware"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#name"/>
+        <Class IRI="#author"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#name"/>
+        <Class IRI="#instrumentControlSoftware"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#office"/>
+        <Class IRI="#contact"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#others"/>
+        <Class IRI="#measurementCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#outOfScopeUses"/>
+        <Class IRI="#intendedUse"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#outTasks"/>
+        <Class IRI="#outOfScopeUses"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#outUsers"/>
+        <Class IRI="#outOfScopeUses"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#output"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#outputFormat"/>
+        <Class IRI="#TaskCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#outputFormat"/>
+        <Class IRI="#modelDescription"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#outputParameters"/>
+        <Class IRI="#TaskCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#outputParameters"/>
+        <Class IRI="#modelDescription"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#paperOrResource"/>
+        <Class IRI="#modelContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#password"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peaklistID"/>
+        <Class IRI="#Peaklist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#peaklistID"/>
+        <Class IRI="#output"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#performance"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#phone"/>
+        <Class IRI="#contact"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#positions"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#precision"/>
+        <Class IRI="#performance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#prefix"/>
+        <Class IRI="#processingParameter"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#processingParameter"/>
+        <Class IRI="#processingTechnique"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#processingTechnique"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#recall"/>
+        <Class IRI="#performance"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#role"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampleID"/>
+        <Class IRI="#Peaklist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampleID"/>
+        <Class IRI="#Sample"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampleID"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampleMode"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampleName"/>
+        <Class IRI="#Sample"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampleOffset"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sampleType"/>
+        <Class IRI="#Instrument"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#source"/>
+        <Class IRI="#header"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#startTimeStamp"/>
+        <Class IRI="#header"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#status"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#taskID"/>
+        <Class IRI="#TaskCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#taskID"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#taskID"/>
+        <Class IRI="#analysis"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#taskID"/>
+        <Class IRI="#intendedTasks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#taskName"/>
+        <Class IRI="#TaskCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#taskName"/>
+        <Class IRI="#intendedTasks"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#temperature"/>
+        <Class IRI="#measurementCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#testID"/>
+        <Class IRI="#Peaklist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#testID"/>
+        <Class IRI="#TestCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#trainingData"/>
+        <Class IRI="#ModelCard"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#units"/>
+        <Class IRI="#processingParameter"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#uploadDate"/>
+        <Class IRI="#dataContext"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#uploadDay"/>
+        <Class IRI="#uploadDate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#uploadMonth"/>
+        <Class IRI="#uploadDate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#uploadYear"/>
+        <Class IRI="#uploadDate"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#usedWavelength"/>
+        <Class IRI="#dataContent"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#userID"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#userID"/>
+        <Class IRI="#contributor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#username"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#username"/>
+        <Class IRI="#contributor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#value"/>
+        <Class IRI="#processingParameter"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#version"/>
+        <Class IRI="#applicationSoftware"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#version"/>
+        <Class IRI="#instrumentControlSoftware"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#website"/>
+        <Class IRI="#User"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#x"/>
+        <Class IRI="#Peaklist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#y"/>
+        <Class IRI="#Peaklist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gas/Metal_Ratio"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#runningTime(s)"/>
+        <Class IRI="#performance"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#ActualKnowledge"/>
+        <Class IRI="#Center"/>
+        <Class IRI="#Datacard"/>
+        <Class IRI="#Instrument"/>
+        <Class IRI="#ModelCard"/>
+        <Class IRI="#Peaklist"/>
+        <Class IRI="#Sample"/>
+        <Class IRI="#TaskCard"/>
+        <Class IRI="#TestCard"/>
+        <Class IRI="#User"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#F1_score"/>
+        <Class IRI="#cosineSimilarity"/>
+        <Class IRI="#jaccardSimilarity"/>
+        <Class IRI="#precision"/>
+        <Class IRI="#recall"/>
+        <Class IRI="#runningTime(s)"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#UploadTime"/>
+        <Class IRI="#uploadDay"/>
+        <Class IRI="#uploadMonth"/>
+        <Class IRI="#uploadYear"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#X-raySource"/>
+        <Class IRI="#instrumentID"/>
+        <Class IRI="#measurementCondition"/>
+        <Class IRI="#sampleType"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#address"/>
+        <Class IRI="#affiliation"/>
+        <Class IRI="#contact"/>
+        <Class IRI="#instrumentID"/>
+        <Class IRI="#password"/>
+        <Class IRI="#positions"/>
+        <Class IRI="#role"/>
+        <Class IRI="#userID"/>
+        <Class IRI="#username"/>
+        <Class IRI="#website"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#allowedError"/>
+        <Class IRI="#dataID"/>
+        <Class IRI="#groundtruth"/>
+        <Class IRI="#modelID"/>
+        <Class IRI="#output"/>
+        <Class IRI="#performance"/>
+        <Class IRI="#taskID"/>
+        <Class IRI="#testID"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#analysis"/>
+        <Class IRI="#dataContent"/>
+        <Class IRI="#dataContext"/>
+        <Class IRI="#dataID"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#applicationSoftware"/>
+        <Class IRI="#instrumentControlSoftware"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#atmosphere"/>
+        <Class IRI="#electricField"/>
+        <Class IRI="#others"/>
+        <Class IRI="#temperature"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#author"/>
+        <Class IRI="#endTimeStamp"/>
+        <Class IRI="#source"/>
+        <Class IRI="#startTimeStamp"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#caveatsAndRecommendations"/>
+        <Class IRI="#dependencies"/>
+        <Class IRI="#ethicalConsiderations"/>
+        <Class IRI="#intendedUse"/>
+        <Class IRI="#modelContext"/>
+        <Class IRI="#modelDescription"/>
+        <Class IRI="#modelID"/>
+        <Class IRI="#trainingData"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#center"/>
+        <Class IRI="#contributor"/>
+        <Class IRI="#dataLocation"/>
+        <Class IRI="#instrumentID"/>
+        <Class IRI="#uploadDate"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#centerID"/>
+        <Class IRI="#centerName"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#centerID"/>
+        <Class IRI="#centerName"/>
+        <Class IRI="#instrumentID"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#centerID"/>
+        <Class IRI="#sampleID"/>
+        <Class IRI="#sampleName"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#chemicalElements"/>
+        <Class IRI="#header"/>
+        <Class IRI="#processingTechnique"/>
+        <Class IRI="#sampleID"/>
+        <Class IRI="#sampleMode"/>
+        <Class IRI="#sampleOffset"/>
+        <Class IRI="#status"/>
+        <Class IRI="#usedWavelength"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#citationDetails"/>
+        <Class IRI="#contributor"/>
+        <Class IRI="#license"/>
+        <Class IRI="#modelDate"/>
+        <Class IRI="#modelLocation"/>
+        <Class IRI="#modelName"/>
+        <Class IRI="#modelType"/>
+        <Class IRI="#modelVersion"/>
+        <Class IRI="#paperOrResource"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#email"/>
+        <Class IRI="#office"/>
+        <Class IRI="#phone"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#fairnessConstraints"/>
+        <Class IRI="#hyperParameters"/>
+        <Class IRI="#inputFormat"/>
+        <Class IRI="#inputParameters"/>
+        <Class IRI="#modelArchitecture"/>
+        <Class IRI="#outputFormat"/>
+        <Class IRI="#outputParameters"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#inputFormat"/>
+        <Class IRI="#inputParameters"/>
+        <Class IRI="#outputFormat"/>
+        <Class IRI="#outputParameters"/>
+        <Class IRI="#taskID"/>
+        <Class IRI="#taskName"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#intendedTasks"/>
+        <Class IRI="#intendedUsers"/>
+        <Class IRI="#outOfScopeUses"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#modelDay"/>
+        <Class IRI="#modelMonth"/>
+        <Class IRI="#modelYear"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#modelID"/>
+        <Class IRI="#modelName"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#name"/>
+        <Class IRI="#version"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#outTasks"/>
+        <Class IRI="#outUsers"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#peaklistID"/>
+        <Class IRI="#sampleID"/>
+        <Class IRI="#testID"/>
+        <Class IRI="#x"/>
+        <Class IRI="#y"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#prefix"/>
+        <Class IRI="#units"/>
+        <Class IRI="#value"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#taskID"/>
+        <Class IRI="#taskName"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#userID"/>
+        <Class IRI="#username"/>
+    </DisjointClasses>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasParameter"/>
+        <Class IRI="http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH"/>
+    </ObjectPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R0a6a5mGm1vCsrssjbxOHS</IRI>
+        <Literal>lux</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R3rv7aiytv4kHX93l7VdCE</IRI>
+        <Literal>mole / cubic meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R6fvijkD6IK01xRmOuFfQ5</IRI>
+        <Literal>siemens</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R78LmQvIDpMmJnyGua2uWD9</IRI>
+        <Literal>square meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7SZ5yu9XOQVQUNBNdDYXNj</IRI>
+        <Literal>radian / second</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7hJzSwEwLmvdYZwrQDPYO7</IRI>
+        <Literal>coulomb / kilogram</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7iohKqPlD6P6U9JLqBhA7F</IRI>
+        <Literal>watt / square meter-steradian</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7jgrMwoolljhXoHDFZ69IJ</IRI>
+        <Literal>pico</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7lN4Uakp8Y6PY5rSGrhxC</IRI>
+        <Literal>micro</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7ntVCyMHaFE5mYpDFNCcBe</IRI>
+        <Literal>radian / second squared</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7qL9zln3Kzq999eoxaQHP4</IRI>
+        <Literal>amp</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7qZinT9z1YFJJkqhCjgAap</IRI>
+        <Literal>giga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7qxjcJyVhiZiiCKChI9sG4</IRI>
+        <Literal>Sintering</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7rCTnfeSBPs47Z5IGKqIDk</IRI>
+        <Literal>farad</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7roAdZcfPvQ7x9dzO5bmWm</IRI>
+        <Literal>volt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7uyAnKhOfkyz0taVcLEDnc</IRI>
+        <Literal>lumen</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R7zXnRbrfN5NOUHlU90avuz</IRI>
+        <Literal>joule / kelvin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R81Y5pjGml44ihdWpEor98</IRI>
+        <Literal>watt / square meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R83CMvvv7rIYi4w0sAz4WS6</IRI>
+        <Literal>Current Density</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R83CMvvv7rIYi4w0sAz4WS6</IRI>
+        <Literal>amp / square meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R85cLOtiY56Zkt9J3BRDtKd</IRI>
+        <Literal>joule / cubic meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R88ulVRKqnTkJ2zjMqMqGNt</IRI>
+        <Literal>amp / meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8KRQcIxCXpGAX7fTYxjPrv</IRI>
+        <Literal>kilo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8L98UCf1qtE9ZmHqsm91Fn</IRI>
+        <Literal>joule / mole-kelvin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8PoFBM8YNfVxvFfOw72Wge</IRI>
+        <Literal>gram / cubic meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8R7iF2p7tuEvmatmElBkpc</IRI>
+        <Literal>joule / kilogram</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8Ta6HSmwXLcagP7xd4SBUe</IRI>
+        <Literal>steradian</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8WUXVwHe6evYtYeMoOsVlB</IRI>
+        <Literal>farad / meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8X5qeQRmJldI3h6kS3Q6tC</IRI>
+        <Literal>radian</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8eCYk1FI1gY0sNviqgDMUV</IRI>
+        <Literal>joule</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8ejAAt9ooRAWE2Fnb3QZ2V</IRI>
+        <Literal>joule / mole</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8iRdlAaS376ka2DOZiv1vE</IRI>
+        <Literal>milli</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8p7fxA4Mlm0GlSVjcsJcPm</IRI>
+        <Literal>Single Crystal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8qzkJYVG7ABR2JffIeeBEl</IRI>
+        <Literal>pH</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8wCxxuCaAW7LIyk9FxTbJv</IRI>
+        <Literal>cubic meter / kilogram</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8z2YIkOy6uRVMD8qyCkqci</IRI>
+        <Literal>coulomb</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R8zlppxeAd7gPxCvp3lmqCx</IRI>
+        <Literal>Measurement Geometry</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R98zVOFbRriDsSVo89YjgFz</IRI>
+        <Literal>candela / square meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/R9VivapbgLVQ5HZ4VogDmI4</IRI>
+        <Literal>Feed Rate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9VivapbgLVQ5HZ4VogDmI4</IRI>
+        <Literal>inch / revolution</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9kxc2UV7a5mWGnaKFOso7H</IRI>
+        <Literal>henry / meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9pCRCD31UECafADiXu2A53</IRI>
+        <Literal>newton / meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/R9z2yS1T7I5xjmM7mNk4OKx</IRI>
+        <Literal>gray / second</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB4kHjK4fGl8CgNLOVPrbjh</IRI>
+        <Literal>watt / steradian</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RB5dP7iJNJJa9JRdojAWDqo</IRI>
+        <Literal>Amorphous</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBDrCX3xuzJrBBpObGTFjvA</IRI>
+        <Literal>sievert</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBIDDRDft0hLPHW9Jsxq8O7</IRI>
+        <Literal>tesla</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBJP105tkbuX1XsnH2ZIw9q</IRI>
+        <Literal>pascal-second</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBS1BumFG9BM1y7Qh4PvWtB</IRI>
+        <Literal>newton</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBVsMYCgBrC6Uzg1JZX1ltZ</IRI>
+        <Literal>weber</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBX81jCHHsrRPihGvpuHv61</IRI>
+        <Literal>Textured</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBYpO8QL65hgmu0OY3UIS4h</IRI>
+        <Literal>Crystallinity</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBaugl4kiswiZ7ZrjMKtZB1</IRI>
+        <Literal>mega</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBdKhQqHXHXJ5anqknFFT3B</IRI>
+        <Literal>cubic meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBshr8uxpbzwE96xIPgjgd5</IRI>
+        <Literal>meter / second square</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RBzsVOAeASkYgslvGnEnJuL</IRI>
+        <Literal>meter / second</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RC4EM3bS7KPdAfMzdn9PL7Y</IRI>
+        <Literal>Thin Film</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCF6lyWy5ChQXQovKdeMXCd</IRI>
+        <Literal>ohm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCT5AEAKpxb0XmvZJtA43cY</IRI>
+        <Literal>peta</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCYX8E1lnUpgG7dTqKjAOsi</IRI>
+        <Literal>tera</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCczDiwp1eqbGxMRhBloea</IRI>
+        <Literal>atm</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCd8tmm2TcyTnDrMmQRWxce</IRI>
+        <Literal>nexton-meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCd9OB1yDjMHF8RlIsFuUrG</IRI>
+        <Literal>volt / meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCgNxeBytCS1IvQ8O7EykZq</IRI>
+        <Literal>katal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCglJfpwsdo0n7wuovGkw03</IRI>
+        <Literal>nano</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCr0dlLWJ8wKJ9QJU79cKnx</IRI>
+        <Literal>gray</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCvCRfKyM249NynPfPAEVkx</IRI>
+        <Literal>PH</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCx1HWmm2dnUZfyUB2W6r7W</IRI>
+        <Literal>gram / square meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RCx2G7MjsBJ1GJXhfIwU2Qf</IRI>
+        <Literal>Units</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RD19khb1XQXnrVukPrZ1n16</IRI>
+        <Literal>Powder</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDDMGuDs3QzH5okvmNG7TkL</IRI>
+        <Literal>gram</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDEGswixi19PDozhyzkvJg7</IRI>
+        <Literal>Sample Form</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDIzYemSiKbdIOofIxIxtMa</IRI>
+        <Literal>Temperature</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDK48h9FhrwJZmFtdUS9IMv</IRI>
+        <Literal>coulomb / cubic meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDKKqbg1V1FzwPpKTvq8quq</IRI>
+        <Literal>reciprocal meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDT2hidWcKxL6OzYQILGRH4</IRI>
+        <Literal>Prefixes</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDc6fCx9B4Z9jRPAjffHibt</IRI>
+        <Literal>henry</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDgFFYvGyxlBkfJJDCuPqw3</IRI>
+        <Literal>degree Celsius (°C)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RDm70zaajOGiwhASgrKlYnQ</IRI>
+        <Literal>Pulse Frequency</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDm70zaajOGiwhASgrKlYnQ</IRI>
+        <Literal>hertz</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDokPAREIJF2VijqgKsJpsH</IRI>
+        <Literal>Processing Parameter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDvAZtceb2sUSCcFCJrHo8m</IRI>
+        <Literal>becquerel</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDw4AFGiafU0x2dVqRjHCDr</IRI>
+        <Literal>hecto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
+        <IRI>http://webprotege.stanford.edu/RDwQxpyAj6nprMHlKcmN45M</IRI>
+        <Literal>Feed Rate</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RDwQxpyAj6nprMHlKcmN45M</IRI>
+        <Literal>mm/rev</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RGNrzzddgV1BdoPSnDwe8t</IRI>
+        <Literal>Processing Technique</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RPw8zIsOrhKSxuppPwfqOp</IRI>
+        <Literal>femto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RR1AApzbpXt3CUxlcd04L0</IRI>
+        <Literal>watt / meter-kelvin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RZE6oeuFD6IRqbF6ZmYTEE</IRI>
+        <Literal>Bulk / Solid</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RasHxGSTCNrL5HP1IcuMuN</IRI>
+        <Literal>katal / cubic meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RcmdlOuFlr2VtKIpaEHoa5</IRI>
+        <Literal>bar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RctZZJyJoHYNYNzGLqg7ar</IRI>
+        <Literal>deci</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Re1RP36eGXNhyA6jgm66mR</IRI>
+        <Literal>coulomb / square meter</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RfZ2GTcuWSVW0GggAXvm0U</IRI>
+        <Literal>joule / kilogram-kelvin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Ri3qBOVFly160tG3Gor39M</IRI>
+        <Literal>Atmosphere</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RkJOYyT9sQDAKyaMoXkSuv</IRI>
+        <Literal>centi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RroXwH0zO986a1e7pdpC4A</IRI>
+        <Literal>degree kelvin (K)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rsf6zcKog1BK0UQtibWMJG</IRI>
+        <Literal>Polycrystalline</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rt521dhV1o7rFuFgcn7Xff</IRI>
+        <Literal>deca</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RtkJhrpwJ06UKx6KRp3jjr</IRI>
+        <Literal>pascal</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RvsNh2o9AJ00EduqoKo1Hx</IRI>
+        <Literal>degree fahrenheit (°F)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/Rw8YTmzkFKWHCI4x4uClwB</IRI>
+        <Literal>watt</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://webprotege.stanford.edu/RxKsY4CMnJe22oUDOkHgiB</IRI>
+        <Literal>torr</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

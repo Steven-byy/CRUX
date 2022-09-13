@@ -1,0 +1,48 @@
+{
+    "modelContext": {
+        "modelName": null,
+        "contributor": {
+            "username": null,
+            "userID": null
+        },
+        "modelDate": {
+            "modelYear": null,
+            "modelMonth": null,
+            "modelDay": null
+        },
+        "modelVersion": null,
+        "modelType": null,
+        "paperOrResource": null,
+        "citationDetails": null,
+        "license": null,
+        "modelLocation": null
+    },
+    "intendedUse": {
+        "intendedTasks": {
+            "taskID": null,
+            "taskName": null
+        },
+        "intendedUsers": null,
+        "outOfScopeUses": {
+            "outTasks": null,
+            "outUsers": null
+        }
+    },
+    "trainingData": {
+        "dataID": null
+    },
+    "dependencies": {
+    },
+    "modelDescription": {
+        "inputFormat": null,
+        "outputFormat": null,
+        "inputParameters": null,
+        "outputParameters": null,
+        "modelArchitecture": null,
+        "hyperParameters": {
+        },
+        "fairnessConstraints": null
+    },
+    "ethicalConsiderations": null,
+    "caveatsAndRecommendations": null
+}

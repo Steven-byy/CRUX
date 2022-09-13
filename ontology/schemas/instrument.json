@@ -1,0 +1,14 @@
+{
+  "location": null,
+  "instrumentName": null,
+  "Geometry": null,
+  "sampleType": null,
+  "XraySource": null,
+  "measurementCondition": {
+    "temperatureAbility": null,
+    "atmosphere": null,
+    "electricField": null,
+    "magneticField": null,
+    "others": []
+  }
+}

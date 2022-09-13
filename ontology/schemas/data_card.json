@@ -1,0 +1,42 @@
+{
+    "dataContext": {
+        "uploadTime": {
+            "uploadYear": null,
+            "uploadMonth": null,
+            "uploadDay": null,
+            "uploadTime": null
+        },
+        "contributor": {
+            "username": null,
+            "userID": null
+        },
+        "dataLocation": null,
+        "center": {
+            "centerID": null,
+            "centerName": null,
+            "instrumentID": null,
+            "instrumentName": null
+        },
+        "instrument": {
+            "instrumentID": null,
+            "instrumentName": null
+        }
+    },
+    "dataContent": {
+        "header": null,
+        "status": null,
+        "sampleID": null,
+        "sampleMode": null,
+        "sampleOffset": null,
+        "usedWavelength": null,
+        "processingTechnique": {
+            "processingParameter": {
+                "prefix": null,
+                "units": null,
+                "value": null
+            }
+        },
+        "chemicalElements": null
+    },
+    "analysis": []
+}

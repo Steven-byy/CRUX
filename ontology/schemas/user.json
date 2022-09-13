@@ -1,0 +1,15 @@
+{
+    "username": null,
+    "role": null,
+    "affiliation": [],
+    "positions": [],
+    "address": null,
+    "website": null,
+    "contact": {
+        "email": null,
+        "phone": null,
+        "office": null
+    },
+    "instrument": [],
+    "password": null
+}
